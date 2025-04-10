@@ -18,8 +18,8 @@
 
 ## 📘 My Learning Repositories
 
-- 🚀 [DSA Journey (C++)](https://github.com/YOUR_USERNAME/dsa-journey)
-- 🌐 [Web Dev Journey](https://github.com/YOUR_USERNAME/web-dev-journey)
+- 🚀 [DSA Journey (C++)](https://github.com/sumannaiya/Data-Structure-Algorithms)
+- 🌐 [Web Dev Journey](https://github.com/sumannaiya/Web-Dev)
 
 ---
 
@@ -34,7 +34,7 @@
 
 ## 📬 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME)
+- 💼 [LinkedIn](https://www.linkedin.com/in/suman-naiya-69955126a/)
 - 📧 Email: sumannaiya806@gmail.com
 
 ---
