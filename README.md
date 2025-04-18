@@ -34,7 +34,7 @@
 
 ## 📬 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/suman-naiya-69955126a/)
+- 💼 LinkedIn Profile: [LinkedIn](https://www.linkedin.com/in/suman-naiya-69955126a/)
 - 📧 Email: sumannaiya806@gmail.com
 
 ---
